@@ -1,2 +1,2 @@
-Alfredv2-Workflows
+reMenu-alfredworkflow
 ==================
